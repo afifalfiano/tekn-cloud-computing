@@ -1,3 +1,8 @@
 # tekn-cloud-computing
-## Minggu-01
-Membuat Sebuah Repository Praktikum
+## SCM: Git dan Github
+
+[Git-Single](git-single.md)
+
+[Git-Kolaborasi](git-kolaborasi.md)
+
+[Rangkuman Cloud Computing](rangkuman-cloud-computing.md)
