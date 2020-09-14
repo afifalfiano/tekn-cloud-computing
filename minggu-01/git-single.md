@@ -1,6 +1,6 @@
-#Install Git
+# Install Git
 
-##Windows
+## Windows
 
 1. Untuk pengguna windows langsung saja download installer git melalui link git-scm.com/download
 
