@@ -56,4 +56,4 @@ Pada bab kolaborasi ini saya berkolaborasi dengan teman seangkatan saya dan seju
 
 ![13](Tugas/4.Kolaborasi/Screenshot_12.jpg)
 
-    Jika sudah berhasil fetch tinggal lakukan merge saja dengan menjalankan perintah git merge upstream/master. Artinya kita menggabungkan master dari upstream ke master local saya. Jika sudah terupdate langsung saja lakuka push ke origin master. Sekiranya branch add-contributor tidak dibutuhkan bisa dihapus saja dengan menjalankan perintah git branch –D add-contributor.
+Jika sudah berhasil fetch tinggal lakukan merge saja dengan menjalankan perintah git merge upstream/master. Artinya kita menggabungkan master dari upstream ke master local saya. Jika sudah terupdate langsung saja lakuka push ke origin master. Sekiranya branch add-contributor tidak dibutuhkan bisa dihapus saja dengan menjalankan perintah git branch –D add-contributor.
