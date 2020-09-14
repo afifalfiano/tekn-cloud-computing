@@ -4,50 +4,50 @@
 
 1. Untuk pengguna windows langsung saja download installer git melalui link git-scm.com/download
 
-<div align="center">
+<div align="left">
 <img src="./Tugas/1.Install_Git/Screenshot_1.jpg" width="600px">
 </div>
 
 2. Tunggu proses download sampai selesai dan pastikan koneksi internet lancar.
 
-<div align="center">
+<div align="left">
 <img src="./Tugas/1.Install_Git/Screenshot_2.jpg" width="600px">
 </div>
 
 
 3. Kemudian langsung saja jalankan installer git tersebut.
 
-<div align="center">
+<div align="left">
 <img src="./Tugas/1.Install_Git/Screenshot_3.jpg" width="600px">
 </div>
 
 4. Tunggu proses installer sampai selesai
 
-<div align="center">
+<div align="left">
 <img src="./Tugas/1.Install_Git/Screenshot_4.jpg" width="600px">
 </div>
 
 5. Setelah selesai langsung saja buka aplikasi Git Bash yang shortcutnya terdapat pada windows.
 
-<div align="center">
+<div align="left">
 <img src="./Tugas/1.Install_Git/Screenshot_5.jpg" width="600px">
 </div>
 
 6. Seperti ini tampilan git bash. Sebenarnya tidak ada perbedaan dengan cmd hanya saja syntax dan aturan git bash itu menggunakan dari linux jadi kita seperti menggunakan operating system linux. Untuk mengecek versi langsung saja jalankan perintah git –version.
 
-<div align="center">
+<div align="left">
 <img src="./Tugas/1.Install_Git/Screenshot_6.jpg" width="600px">
 </div>
 
 7. Nah, untuk tampilan Git Bash GUI nya seperti ini, tapi saya jarang atau bahkan tidak pernah menggunakan versi GUInya dari git bash.
 
-<div align="center">
+<div align="left">
 <img src="./Tugas/1.Install_Git/Screenshot_7.jpg" width="600px">
 </div>
 
 ## Konfigurasi Git
 Disini saya mencoba konfigurasi secara local, bukan global.
-<div align="center">
+<div align="left">
 <img src="./Tugas/2.Config_Git/2.%20Konfigurasi%20Git%20Local.jpg" width="600px">
 </div>
 
@@ -62,26 +62,26 @@ Disini saya mencoba konfigurasi secara local, bukan global.
 ## Mengelola Akun Git Pribadi
 1. Membuat project baru di akun github saya.
 
-<div align="center">
+<div align="left">
 <img src="./Tugas/3.Mengelola_Akun_Git/Screenshot_1.jpg" width="600px">
 </div>
 
     
 2. Kemudian lengkapi field sesuai keinginan.
 
-<div align="center">
+<div align="left">
 <img src="./Tugas/3.Mengelola_Akun_Git/Screenshot_2.jpg" width="600px">
 </div>
 
 3. Setelah berhasil buat saya lakukan clone repository tersebut.
 
-<div align="center">
+<div align="left">
 <img src="./Tugas/3.Mengelola_Akun_Git/Screenshot_3.jpg" width="600px">
 </div>
     
 4. Selanjutnya kita mencoba syntax git seperti git add, git status, git commit dan git push.
 
-<div align="center">
+<div align="left">
 <img src="./Tugas/3.Mengelola_Akun_Git/Screenshot_4.jpg" width="600px">
 </div>
     
@@ -90,17 +90,17 @@ Saya sudah memiliki file README.md hasil generate project dari github. Kemudian 
 
 5. Kemudian saya cek di github dan ternyata sudah terupdate. Bisa juga dengan mengecek history commit.
 
-<div align="center">
+<div align="left">
 <img src="./Tugas/3.Mengelola_Akun_Git/Screenshot_5.jpg" width="600px">
 </div>
     
 6. Selanjutnya saya mencoba untuk mengedit file dengan branch yang lain atau bukan master.
 
-<div align="center">
+<div align="left">
 <img src="./Tugas/3.Mengelola_Akun_Git/Screenshot_6.1.jpg" width="600px">
 </div>
     
-<div align="center">
+<div align="left">
 <img src="./Tugas/3.Mengelola_Akun_Git/Screenshot_6.2.jpg" width="600px">
 </div>
     
@@ -109,19 +109,19 @@ Untuk membuat branch baru dan pindah ke branch baru tersebut dalam satu perintah
 
 7. Kita bisa melakukan pull request atau istilahnya menggabungkan isi dari branch edit-readme-1 ke master dengan persetujuan dari owner project tersebut.
 
-<div align="center">
+<div align="left">
 <img src="./Tugas/3.Mengelola_Akun_Git/Screenshot_6.jpg" width="600px">
 </div>
    
    Berikan sebuah pesan dan langsung saja klik create pull request.
 
-<div align="center">
+<div align="left">
 <img src="./Tugas/3.Mengelola_Akun_Git/Screenshot_7.jpg" width="600px">
 </div>
    
 8. Selanjutnya sambil menunggu kode direview owner, saya coba merge atau menggabungkan branch edit-readme-1 dan master di local saya.
 
-<div align="center">
+<div align="left">
 <img src="./Tugas/3.Mengelola_Akun_Git/Screenshot_8.jpg" width="600px">
 </div>
     
@@ -130,7 +130,7 @@ Pastikan sudah berada dimaster jika ingin merge dari edit-readme-1. Jika sudah l
 
 9. Kemudian terjadi suatu kejadian kalau saya salah melakukan perubahan maka kita bisa menjalankan suatu perintah supaya kembali ke kondisi semula.
 
-<div align="center">
+<div align="left">
 <img src="./Tugas/3.Mengelola_Akun_Git/Screenshot_9.jpg" width="600px">
 </div>
     
@@ -139,23 +139,23 @@ Sebelumnya saya telah membuat branch edit-readme-2 dan melakukan perubahan pada 
 
 10. Ketika pull request kita sudah disetuju maka otomatis isi dari branch edit-readme-1 akan dimerge ke master dan tampilannya akan seperti berikut ini
 
-<div align="center">
+<div align="left">
 <img src="./Tugas/3.Mengelola_Akun_Git/Screenshot_10.jpg" width="600px">
 </div>
     
 11. Untuk mendapatkan perubahan terbaru dari upstream bisa jalankan perintah git pull 
 
-<div align="center">
+<div align="left">
 <img src="./Tugas/3.Mengelola_Akun_Git/Screenshot_11.jpg" width="600px">
 </div>
     
 12. Selanjutnya kita bisa kembali ke kondisi sebelumnya dengan menggunakan perintah revert.
 
-<div align="center">
+<div align="left">
 <img src="./Tugas/3.Mengelola_Akun_Git/Screenshot_12.jpg" width="600px">
 </div>
 
-<div align="center">
+<div align="left">
 <img src="./Tugas/3.Mengelola_Akun_Git/Screenshot_13.jpg" width="600px">
 </div>
     
@@ -164,11 +164,11 @@ Sebelumnya saya sudah mengubah file README.md dengan menambah beberapa paragraph
 
 13. Kemudian kita juga bisa kembali ke kondisi sebelum commit terakhir menggunakan revert
 
-<div align="center">
+<div align="left">
 <img src="./Tugas/3.Mengelola_Akun_Git/Screenshot_14.jpg" width="600px">
 </div>
     
-<div align="center">
+<div align="left">
 <img src="./Tugas/3.Mengelola_Akun_Git/Screenshot_15.jpg" width="600px">
 </div>
     
@@ -177,15 +177,15 @@ Saya mengedit file README.md dengan menambahkan beberapa paragraph kemudian mela
 
 14. Kemudian kita juga bisa kembali ke kondisi normal berdasarkan kode comit menggunakan revert.
 
-<div align="center">
+<div align="left">
 <img src="./Tugas/3.Mengelola_Akun_Git/Screenshot_16.jpg" width="600px">
 </div>
     
-<div align="center">
+<div align="left">
 <img src="./Tugas/3.Mengelola_Akun_Git/Screenshot_17.jpg" width="600px">
 </div>
     
-<div align="center">
+<div align="left">
 <img src="./Tugas/3.Mengelola_Akun_Git/Screenshot_18.jpg" width="600px">
 </div>
     
@@ -194,13 +194,13 @@ Sebelumnya saya menabahkan beberapa tulisan untuk melihat perubahan kemudian mel
 
 Tapi terkadang ketika melakukan revert bisa saja terjadi konflik pada kode yang kita tulis. Seperti berikut ini
 
-<div align="center">
+<div align="left">
 <img src="./Tugas/3.Mengelola_Akun_Git/Screenshot_19.jpg" width="600px">
 </div>
     
 Untuk kembali ke kondisi sesuai dengan kode commit tinggal pilih Accept Incoming Change,  sedangkan untuk tetap berada pada file perubahan terakhir di master bisa pilih Accept Current Change. Jika sudah maka tinggal lakukan save file dan konflik selesai.
 
-<div align="center">
+<div align="left">
 <img src="./Tugas/3.Mengelola_Akun_Git/Screenshot_20.jpg" width="600px">
 </div>
     
@@ -208,11 +208,11 @@ Jika perubahan sudah sesuai jangan lupa untuk melakukan git add dan git commit.
     
 Setelah berhasil melakukan git add dan git commit kita lanjutkan path dari revert tadi menggunakan git revert –continue. Kemudian lakukan langkah seperti sebelumnya yaitu git add –A , git commit “message” dan git push origin master. 
 
-<div align="center">
+<div align="left">
 <img src="./Tugas/3.Mengelola_Akun_Git/Screenshot_23.jpg" width="600px">
 </div>
     
-<div align="center">
+<div align="left">
 <img src="./Tugas/3.Mengelola_Akun_Git/Screenshot_24.jpg" width="600px">
 </div>
     
