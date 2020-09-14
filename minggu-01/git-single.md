@@ -41,7 +41,7 @@ Disini saya mencoba konfigurasi secara local, bukan global.
 
 4. Untuk melihat konfigurasi secara penuh tinggal jalankan perintah git config –list untuk versi globalnya sedangkan untuk versi local tinggal jalankan perintah git config –local –list.
 
-##Mengelola Akun Git Pribadi
+## Mengelola Akun Git Pribadi
 1. Membuat project baru di akun github saya.
 
 ![01](Tugas/3.Mengelola_Akun_Git/Screenshot_1.jpg)
