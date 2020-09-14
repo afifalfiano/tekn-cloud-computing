@@ -52,7 +52,7 @@ Cloud computing menggunakan konsep dari Utility Computing untuk menyediakan metr
     
     • Keamanan dapat ditingkatkan untuk sentralisasi data.
 
-####The National Institeu of Standars and Technology mendifinisikan “5 essential characteristics”
+#### The National Institeu of Standars and Technology mendifinisikan “5 essential characteristics”
 
     • On-demand self-service.
     
@@ -64,7 +64,8 @@ Cloud computing menggunakan konsep dari Utility Computing untuk menyediakan metr
     
     • Measured service.
 
-##Service Model
+## Service Model
+
 ![01](Tugas/Rangkuman-01.png)
 
 Cloud computing berkonsep semua adalah layanan. Cloud computing menyediakan servis untuk model yang berbeda dan terdapat 3 standar model untuk per NIST seperti Infrastructure as a Service(SaaS), Platform as a service(PaaS), dan Software as a service(SaaS).
@@ -97,7 +98,7 @@ Cloud computing berkonsep semua adalah layanan. Cloud computing menyediakan serv
 
 Function as a service adalah sebuah service untuk meremote sesuai panggilan yang dihosting layanan yang memanfaatkan komputasi tanpa server untuk memungkinkan penyebaran fungsi individu di cloud yang berjalan sebagai respons terhadap peristiwa.
 
-####Model Deployment
+#### Model Deployment
 
 Terdapat 3 tipe utama pada model deployment ini:
 
@@ -115,7 +116,7 @@ Terdapat 3 tipe utama pada model deployment ini:
    
 Untuk jenis lainnya seperti community cloud, distributed cloud, multicloud, poly cloud, big data cloud dan hpc cloud.
 
-##Arsitektur
+## Arsitektur
 
 ![02](Tugas/Rangkuman-02.png)
 
