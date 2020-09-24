@@ -4,6 +4,10 @@ SaaS adalah suatu model penyampaian aplikasi perangkat lunak oleh suatu vendor p
 
 ### Perbedaan IaaS, SaaS dan PaaS
 
+<div align="left">
+<img src="./img/perbedaan.webp" width="600px">
+</div>
+
 #### IaaS
 
 Infrastructure as a Service adalah model dimana sumber daya komputasi disediakan secara virtual. Penyedia cloud IaaS dapat memberi Anda seluruh rentang sumber daya yang dibutuhkan untuk suatu perusahaan. Ini menyediakan server, penyimpanan, dan hard drive jaringan. Ini juga menyediakan perawatan dan dukungan. Bisnis dapat memenuhi persyaratan di sana tanpa memasang perangkat keras apa pun. Ini menyediakan sumber daya pada basis outsourcing untuk operasi perusahaan. Ini juga menyediakan ruang pusat data dan komponen jaringan.
@@ -19,6 +23,11 @@ Software as a Service adalah model di mana perangkat lunak digunakan dan dibeli 
 Platform as a Service adalah model komputasi awan yang menyediakan basis awan tempat Anda dapat menguji dan menjalankan aplikasi Anda. Ini menyederhanakan proses pengembangan perangkat lunak. Pada dasarnya ini adalah model yang menyediakan perangkat keras dan perangkat lunak yang dibutuhkan untuk proses pengembangan aplikasi di internet kepada pengguna. Platform sebagai penyedia Layanan menghosting perangkat keras dan perangkat lunak pada infrastrukturnya sendiri. Berikut adalah beberapa contoh Paa: Google App Enginel, Windows Azure dan AWS Elastic Beanstalk.
 
 ### Arsitektur SaaS
+
+<div align="left">
+<img src="./img/arsitektur.jpg" width="600px">
+</div>
+
 
 Satu versi aplikasi dengan konfigurasi tunggal digunakan untuk semua pelanggan. Aplikasi diinstal pada beberapa mesin untuk mendukung skalabilitas (disebut penskalaan horizontal). Dalam beberapa kasus, versi kedua dari aplikasi diatur untuk menawarkan kelompok pelanggan tertentu dengan akses ke versi pra-rilis aplikasi untuk tujuan pengujian. Dalam model tradisional ini, setiap versi aplikasi didasarkan pada kode unik. Meskipun pengecualian, beberapa solusi SaaS tidak menggunakan multitenancy, untuk mengelola sejumlah besar pelanggan secara hemat biaya. Apakah multitenancy merupakan komponen penting untuk software-as-a-service adalah topik kontroversi.
 
@@ -93,6 +102,10 @@ Membangun produk untuk cloud berarti membangun produk dengan bahasa pemrograman 
 Untuk membuat layanan SaaS berbasis Cloud dirokemendasikan menggunakan database dokumen daraipada menggunakan database dengan konsep tradisional. Mengapa memilih database berorientasi dokumen? Database dokumen mendapatkan informasi tipenya dari data itu sendiri. Jadi setiap contoh data dapat berbeda dari yang lain. Ini memungkinkan lebih banyak fleksibilitas, terutama saat menghadapi perubahan. Dan itu sering kali mengurangi ukuran database.
 
 #### 3. System queuing
+
+<div align="left">
+<img src="./img/queque.png" width="600px">
+</div>
 
 Dikenal sebagai teknologi Message Queuing (MSMQ), ini memungkinkan aplikasi web untuk berjalan pada waktu yang berbeda dan untuk berkomunikasi dengan berbagai integrasi pihak ketiga / API / dan layanan lainnya secara asinkron. Sebuah pesan (misalnya kueri yang meminta layanan pihak ketiga melalui API) ditempatkan ke antrean. Itu disimpan di sana sampai penerima mengambilnya. Antrian pesan memiliki batasan terkait ukuran dan jumlah data yang dikirimkan dalam antrian. Hal terbaik tentang sistem antrian modern adalah sistem ini dapat diskalakan dengan mudah. Dapat menggunakan RabbitMQ, AWS & EC2 dan peyimpnannya menggunakan web storage S3.
 
