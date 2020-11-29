@@ -1,2 +1,4 @@
 # tekn-cloud-computing
-## Minggu-08
+## Docker Compose
+
+[Docker Compose](1.DockerCompose.md)
