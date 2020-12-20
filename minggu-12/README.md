@@ -1,2 +1,4 @@
 # tekn-cloud-computing
-## Minggu-12
+## Docker Orchestration Hands-on Lab
+
+[Docker Orchestration Hands-on Lab](Docker_Orchestration.md)
